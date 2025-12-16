@@ -1,0 +1,1 @@
+Es necesario instalar de forma manual o a través de la aplicación de ARDUINO la librería [DHT sensor library by Adafruit]
